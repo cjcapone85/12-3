@@ -10,4 +10,3 @@ export class AppComponent {
   name: string = "Chad";
 
 }
-// export const name: string = "Chad";
